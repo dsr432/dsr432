@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm dsr432 👋
 
 <!--
 **dsr432/dsr432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dsr432&show_icons=true&theme=gotham" alt="dsr432" />
+
+**languages and tools**
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,au,atom,ansible,cpp,discord,git,github,gitlab,idea,java,linux,matlab,neovim,octave,stackoverflow,)](https://skillicons.dev)
