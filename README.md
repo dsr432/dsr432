@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 **languages and tools**
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,au,atom,ansible,cpp,discord,git,github,gitlab,idea,java,linux,matlab,neovim,octave,stackoverflow,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,python,au,atom,ansible,cpp,discord,git,github,gitlab,idea,java,linux,matlab,neovim,octave,stackoverflow,)](https://skillicons.dev)
