@@ -10,9 +10,6 @@
 ## Some Stats
 
 <p align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dsr432.visitor-badge&right_color=blue" alt="visitor count" />
-</p>
-<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=dsr432&show_icons=true&theme=gotham" alt="dsr432" /> 
 </p>
 <p align="center"> 
