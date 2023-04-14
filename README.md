@@ -1,22 +1,31 @@
-### Hi there! I'm dsr432 👋
+# Hi there! 👋
+**I'm  dsr432:** UMich CS student, Linux enthusiast, BattleCode competitor, and music lover. 
 
-<!--
-**dsr432/dsr432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="mailto: dsreiffer432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dsr432&show_icons=true&theme=gotham" alt="dsr432" />
+<p align="center"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&right_color=blue" alt="visitor count" />
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dsr432&show_icons=true&theme=gotham" alt="dsr432" /> 
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsr432&theme=gotham" alt="most used languages" /> 
+</p>
 
-**languages and tools**
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,python,au,atom,ansible,cpp,discord,git,github,gitlab,idea,java,linux,matlab,neovim,octave,stackoverflow,)](https://skillicons.dev)
+---
+
+## Languages and Tools
+
+#### Confident
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,idea,linux,stackoverflow,)](https://skillicons.dev)
+#### Comfortable
+[![My Skills](https://skillicons.dev/icons?i=html,css,gitlab,java,vscode)](https://skillicons.dev)
+#### It's been a while, but with a little review I'm good
+[![My Skills](https://skillicons.dev/icons?i=atom,ansible,matlab,neovim,octave)](https://skillicons.dev)
