@@ -24,5 +24,5 @@
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,idea,linux,stackoverflow,)](https://skillicons.dev)
 #### Comfortable
 [![My Skills](https://skillicons.dev/icons?i=html,css,gitlab,java,vscode)](https://skillicons.dev)
-#### It's been a while, but with a little review I'm good
+#### Okay with Review
 [![My Skills](https://skillicons.dev/icons?i=atom,ansible,matlab,neovim,octave)](https://skillicons.dev)
