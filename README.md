@@ -20,6 +20,8 @@
 
 ## Languages and Tools
 
+#### Learning
+[![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
 #### Confident
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,idea,linux,stackoverflow,)](https://skillicons.dev)
 #### Comfortable
